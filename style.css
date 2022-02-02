@@ -40,3 +40,61 @@
 .card img{
     max-block-size: 15rem;
 }
+
+.card-title {
+    display:inline-block;
+}
+
+.cardBtn {
+    float: right;
+    
+}
+
+.card-body {
+    padding: 0;
+    margin: 10px 3px 0px 3px;
+    
+}
+
+.newCard {
+    border: none;
+}
+
+.listCard{
+    margin-bottom: 5px;
+    
+    
+}
+
+.list-group-item{
+    border-color: blue;
+    border-radius: 20%;
+}
+
+.status {
+    margin-bottom: 20px;
+}
+
+.modal-header {
+    background-image: url("./img/heading.jpeg") ;
+}
+
+.done-button {
+    color: green;
+    background-color: white;
+    border-color: #6cc26c;
+    border-radius: 3px;
+    padding: 4px 6px 6px 6px;
+    border-width: thin;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #6cc26c;
+    color: white;
+}
+
+
+
+
