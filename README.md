@@ -1,6 +1,7 @@
 # Siri-Cally-final-project
 
-# Project Title
+
+# Project Description
 
 Create a Task Planner web app from scratch.
 Demonstrate the technical skills of HTML, CSS, Bootstrap and JavaScript.
@@ -26,7 +27,7 @@ Demonstrate non-technical skills developed during the Junior Web Developer progr
 
 
 
-## Roadmap
+## To Improve
 
 - Functional edit button
 
