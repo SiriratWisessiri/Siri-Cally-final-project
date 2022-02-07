@@ -152,7 +152,7 @@ class Task {
 
 //hide the 'Done' button once clicked
 function hide(status){
-  if(status === 'To Do' || status === 'In Progress' || status === 'Review'){
+  if(status === 'To Do' || status === 'In Progress' || status === 'Review' ||status === 'To Do'){
     return 'visible'
   }else{
     return 'invisible'
